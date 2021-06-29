@@ -5,35 +5,35 @@ A simple login system based website to submit secrets anonymously
 
 ### Home Page
 <br/>
-<p>
+<p align="center">
   <img src="/images/1.png" width="900"  />
 </p>
 <hr/>
 
 ### Register Page
 <br/>
-<p>
+<p align="center">
   <img src="/images/3.png" width="900"  />
 </p>
 <hr/>
 
 ### Login Page
 <br/>
-<p>
+<p align="center">
   <img src="/images/2.png" width="900"  />
 </p>
 <hr/>
 
 ### Secrets Page
 <br/>
-<p>
+<p align="center">
   <img src="/images/4.png" width="900"  />
 </p>
 <hr/>
 
 ### Secrets Submission Page
 <br/>
-<p>
+<p align="center">
   <img src="/images/5.png" width="900"  />
 </p>
 <hr/>
