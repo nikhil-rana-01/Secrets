@@ -13,21 +13,28 @@ A simple login system based website to submit secrets anonymously
 ### Register Page
 <br/>
 <p>
-  <img src="/images/3.jpg" width="650"  />
+  <img src="/images/3.png" width="900"  />
 </p>
 <hr/>
 
 ### Login Page
 <br/>
 <p>
-  <img src="/images/2.jpg" width="650"  />
+  <img src="/images/2.png" width="900"  />
 </p>
 <hr/>
 
 ### Secrets Page
 <br/>
 <p>
-  <img src="/images/4.jpg" width="650"  />
+  <img src="/images/4.png" width="900"  />
+</p>
+<hr/>
+
+### Secrets Submission Page
+<br/>
+<p>
+  <img src="/images/5.png" width="900"  />
 </p>
 <hr/>
 
@@ -38,9 +45,3 @@ A simple login system based website to submit secrets anonymously
 - Can register with any email by putting protected password
 - Authentication cookies to authenticate that with which account they are logged in.
 
-### Submission Page
-<br/>
-<p>
-  <img src="/images/5.jpg" width="650"  />
-</p>
-<hr/>
